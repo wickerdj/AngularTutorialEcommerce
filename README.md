@@ -1,5 +1,9 @@
 # Ecommerce
 
+I am reading and working the examples from the book 'Web Development with Bootstrap 4 and Angular 2' by Sergey Akopkokhyants, Stephen Radford. 
+
+My personal objects is to learn more about how Angular and Bootstrap work together. I am streching myself by using a newer version of Angular, using Angular-cli whenever possible, and to learn more about git.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
 
 ## Development server
